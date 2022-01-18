@@ -3,10 +3,10 @@
 # from selenium.webdriver.common.keys import Keys
 # import time
 # import requests
-# login = "sloboda.lexus@gmail.com"
-# password = "Audioslave1"
+# login = "//"
+# password = "\"
 # browser = webdriver.Chrome()
-# userpage = "https://www.instagram.com/ekaterina11k/"
+# userpage = "https://www.instagram.com/ekatesrina11sdkad/"
 # browser.get("https://www.instagram.com/")
 # time.sleep(5)
 # log_info = browser.find_element(By.CLASS_NAME, "-MzZI").find_element(By.NAME, "username")
